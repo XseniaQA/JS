@@ -19,9 +19,9 @@ let item_5 = item_3
 // console.log(item_5)
 
 let item_6 = 15
-let item_6_type = item_6
+let item_6_type = typeof item_6
 
-// console.log(item_6_type, typeof (item_6_type))
+// console.log(item_6_type)
 
 // console.log("item_6 ==", item_6, typeof (item_6))
 // console.log(item_6, typeof (item_6))
@@ -32,8 +32,8 @@ let item_7 = item_6 = "15"
 // console.log(item_7)
 // console.log(item_6, typeof (item_6))
 
-let item_7_type = item_7
-// console.log(item_7_type, typeof (item_7_type))
+let item_7_type = typeof item_7
+// console.log(item_7_type)
 
 // console.log("item_7 ==", item_7, typeof (item_7))
 // console.log(item_7, typeof (item_7))
@@ -65,4 +65,30 @@ let age_3 = 60
 // else {
 //     console.log("Technical work", compare)
 // }
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+HW_JS_1.js[+] [unix] (10:09 16/06/2022)                                                     1,1 All
+-- INSERT --
 
